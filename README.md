@@ -1,3 +1,11 @@
+# Azure Network Security
+
+[English](README.md) | [日本語](README.ja.md)
+
+Community examples and lab templates for Azure Firewall, Web Application Firewall, DDoS Protection, and cross-product network-security scenarios.
+
+---
+
 # Azure Network Security 
 
 
@@ -66,4 +74,4 @@ provided by the bot. You will only need to do this once across all repos using o
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.  
+contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
